@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos", "Algoritmos.csproj", "{AFE4DA2E-A4F0-49B3-9870-120AB3309876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasDatosAvanzadas", "..\EstructurasDatosAvanzadas\EstructurasDatosAvanzadas.csproj", "{77CC4FCF-CA98-41B9-BA05-D1E0DC142205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE4DA2E-A4F0-49B3-9870-120AB3309876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE4DA2E-A4F0-49B3-9870-120AB3309876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE4DA2E-A4F0-49B3-9870-120AB3309876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE4DA2E-A4F0-49B3-9870-120AB3309876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CC4FCF-CA98-41B9-BA05-D1E0DC142205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CC4FCF-CA98-41B9-BA05-D1E0DC142205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CC4FCF-CA98-41B9-BA05-D1E0DC142205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CC4FCF-CA98-41B9-BA05-D1E0DC142205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DB83DF-5F77-468C-AFD3-689678E40E00}
+	EndGlobalSection
+EndGlobal
